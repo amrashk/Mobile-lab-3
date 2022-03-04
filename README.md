@@ -18,7 +18,7 @@ a) Step Into
 3.2
 
 Question 1: 
-a)
+a) Tests that are compiled and run entirely on your local machine with the Java Virtual Machine (JVM).
 
 Question 2:
 a) com.example.android.SimpleCalcTest (test)
